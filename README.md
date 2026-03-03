@@ -9,7 +9,7 @@ Bienvenido al syllabus del curso de Arquitectura de Computadores. En el reposito
 | Nombre           | Sección | Email                 |
 | :--------------- | :------ | :-------------------- |
 | Felipe Valenzuela  | 1       | frvalenzuela@alumni.uc.cl |
-| Germán Contreras  | 3      | glcontreras@uc.cl          |
+| Germán Contreras  | 2      | glcontreras@uc.cl          |
 
 ### Ayudantes
 |                  Rol | Nombre                       | GitHub                                                     | Correo                   |
