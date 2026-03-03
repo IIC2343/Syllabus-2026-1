@@ -43,7 +43,6 @@ Habrán 12 actividades prácticas a desarrollar en horario de taller
 
 | Evaluación | Fecha                     |
 | :--------- | :------------------------ |
-
 | Formativa 1         | semana del 04 de marzo |
 | Evaluada 1          | semana del 11 de marzo |
 | Formativa 2         | semana del 18 de marzo |
