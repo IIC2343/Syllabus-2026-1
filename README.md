@@ -17,7 +17,7 @@ Bienvenido al syllabus del curso de Arquitectura de Computadores. En el reposito
 | Coordinador General         | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
 | Coordinadora Laboratorio         | Alejandro Tapia           | [@LizBeeUC](https://github.com/LizBeeUC) | alejandro.tapia@uc.cl |
 | Bienestar         | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
-| Experto Cátedra         | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
+| Experto Cátedra         | Alberto Maturana           | [@VANCOUVERMATU11](https://github.com/VANCOUVERMATU11) | alberto.maturana@uc.cl | 
 |          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
 | Cátedra Corrector          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
 |          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
