@@ -59,3 +59,6 @@ Habrán 12 actividades prácticas a desarrollar en horario de taller
 | Evaluada 7          | semana del 17 de junio |
 | Recuperativo        | semana del 24 de junio |
 
+### Cápsulas/Grabaciones de Ayudantías
+
+Enlace a la carpeta del drive: [enlace](https://uccl0-my.sharepoint.com/:f:/g/personal/alberto_maturana_uc_cl/IgDHnRYGkrxsSLx8SaJWRDI-AbW5CtxNhk8a3i3i15XjCpA?e=QEyXy4)
