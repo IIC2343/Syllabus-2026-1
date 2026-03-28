@@ -19,12 +19,10 @@ Bienvenido al syllabus del curso de Arquitectura de Computadores. En el reposito
 | Bienestar         | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
 | Experto Cátedra         | Alberto Maturana           | [@VANCOUVERMATU11](https://github.com/VANCOUVERMATU11) | alberto.maturana@uc.cl | 
 |          | Mario Rojas           | [@Couvenn](https://github.com/Couvenn) | mario.denzel@estudiante.uc.cl | 
-| Cátedra Corrector          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
-|          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
-|          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
-|          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
-|          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
-|         | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
+| Cátedra Corrector          | José Mendoza           | [@Shoesuke](https://github.com/Shoesuke) | jfmendoza@uc.cl |
+|          | Nicolás Romo           | [@NicolasRomoA](https://github.com/NicolasRomoA) | nicoromo2001@gmail.com |
+|          | Fernanda Escobar           | -- | fer_jez2002@uc.cl|
+|          | Ignacio Gajardo           | -- |  gajardo.ignacio@uc.cl|
 | Laboratorio         | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
 |          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
 |          | PorDefinir           | [PorDefinir](https://google.com) | pordefinir | 
