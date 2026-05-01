@@ -15,7 +15,7 @@ Bienvenido al syllabus del curso de Arquitectura de Computadores. En el reposito
 |                  Rol | Nombre                       | GitHub                                                     | Correo                   |
 | -------------------: | ---------------------------- | ---------------------------------------------------------- | ------------------------ |
 | Coordinador General         | Tomás López           | [@Gansytom](https://github.com/Gansytom) | tomas.lopezm20@uc.cl |
-| Coordinadora Laboratorio         | Alejandro Tapia           | [@LizBeeUC](https://github.com/LizBeeUC) | alejandro.tapia@uc.cl |
+| Coordinador Laboratorio         | Alejandro Tapia           | [@LizBeeUC](https://github.com/LizBeeUC) | alejandro.tapia@uc.cl |
 | Bienestar         | Francisca Quijada           | -- |  franciscaquijada@uc.cl |
 | Experto Cátedra         | Alberto Maturana           | [@VANCOUVERMATU11](https://github.com/VANCOUVERMATU11) | alberto.maturana@uc.cl | 
 |          | Mario Rojas           | [@Couvenn](https://github.com/Couvenn) | mario.denzel@estudiante.uc.cl | 
